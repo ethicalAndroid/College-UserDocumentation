@@ -1,29 +1,29 @@
-## How to make: Breakfast Sausage
+# How to make: Breakfast Sausage
 
 Adapted from Lee Fogle.  
 Total cook and prep time: 25 minutes.  
 Makes 6 Patties.
 
-### Ingredients
+## Ingredients
 
-- 2 teaspoons dried sage 
-- 2 teaspoons salt 
-- 1 teaspoon ground black pepper 
-- ¼ teaspoon dried marjoram 
-- 1 tablespoon brown sugar 
-- 1/8 teaspoons crushed red pepper flakes 
+- 2 teaspoons dried sage
+- 2 teaspoons salt
+- 1 teaspoon ground black pepper
+- ¼ teaspoon dried marjoram
+- 1 tablespoon brown sugar
+- 1/8 teaspoons crushed red pepper flakes
 - 1 pinch ground cloves
 - 2 pounds ground pork
 - 3 teaspoons canola oil
 
-### Tools
+## Tools
 
 - Small bowl
 - Large bowl
 - Large skillet
 - Non-metal flipping utensil, wooden spoon or spatula
 
-### Directions 
+## Directions
 
 1. In a small bowl, combine the sage, salt, ground black pepper, marjoram, brown sugar, crushed red pepper, and cloves.  
 1. Mix the spices well. **(Warning: Always wash your hands with soap before and after handling raw pork.)**
@@ -41,14 +41,14 @@ Makes 6 Patties.
 1. Turn off the heat.
 1. Serve!
 
-### Results
+## Results
 
 You should have 6 delicious breakfast sausages. See figure 1.
 
-*Figure 1.*
+_Figure 1._
 
 ![Image of Breakfast Sausages on a plate.](sausage.jfif)
 
 ## Source
 
-Fogle, Lee. “Breakfast Sausage” Recipe. *allrecipes.com*. <[https://www.allrecipes.com/recipe/16359/breakfast-sausage/](https://www.allrecipes.com/recipe/16359/breakfast-sausage/)>
+Fogle, Lee. “Breakfast Sausage” Recipe. _allrecipes.com_. <[https://www.allrecipes.com/recipe/16359/breakfast-sausage/](https://www.allrecipes.com/recipe/16359/breakfast-sausage/)>
