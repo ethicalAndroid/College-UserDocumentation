@@ -8,7 +8,9 @@
 
 ## To generate a data view
 
-1. Open an existing data analysis task in the Entity Pane, or create a new data analysis task in the Query Pane.
+1. Select a data analysis task.
+    - Open an existing data analysis task in the Entity Pane.
+    - Create a new data analysis task in the Query Pane.
 1. In the Query Pane, use the query filters to further develop or modify your analysis.
 
     *Some of the filters have a Select All button.*
