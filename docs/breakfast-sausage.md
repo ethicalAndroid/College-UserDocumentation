@@ -47,4 +47,8 @@ You should have 6 delicious breakfast sausages. See figure 1.
 
 *Figure 1.*
 
-![Image of Breakfast Sausages on a plate.]5(sausage.jfif)
+![Image of Breakfast Sausages on a plate.](sausage.jfif)
+
+## Source
+
+Fogle, Lee. “Breakfast Sausage” Recipe. *allrecipes.com*. <[https://www.allrecipes.com/recipe/16359/breakfast-sausage/](https://www.allrecipes.com/recipe/16359/breakfast-sausage/)>
